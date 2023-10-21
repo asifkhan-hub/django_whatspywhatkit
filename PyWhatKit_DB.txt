@@ -1,0 +1,95 @@
+Date: 4/10/2023
+Time: 21:5
+Phone Number: +917643036272
+Message: hello what are you doing my pap
+--------------------
+Date: 4/10/2023
+Time: 21:7
+Phone Number: +917643036272
+Message: hello what are you doing my paphisdfasdf
+--------------------
+Date: 4/10/2023
+Time: 21:9
+Phone Number: +917643036272
+Message: my name is asif
+--------------------
+Date: 4/10/2023
+Time: 21:15
+Phone Number: +917643036272
+Message: The code you provided for sending WhatsApp messages from a Django app looks mostly correct. However, there are a few things to check and ensure for proper functionality:Check your project structure: Make sure that your Django app structure is set up correctly. You should have the send_message.html and message_sent.html templates in the appropriate directories, and your app's URLs should be correctly defined.PyWhatKit installation: Ensure that you have PyWhatKit installed in your Python environment, and it's properly configured.Check form fields: Double-check that your WhatsAppMessageForm includes fields for phone_number, message, and scheduled_time. Ensure that these fields are correctly
+--------------------
+Date: 4/10/2023
+Time: 23:0
+Phone Number: '+919955583891']
+Message: hi this is testing
+--------------------
+Date: 4/10/2023
+Time: 23:0
+Phone Number: ['+917643036272'
+Message: hi this is testing
+--------------------
+Date: 4/10/2023
+Time: 23:4
+Phone Number: '+919955583891']
+Message: hi this is testing
+--------------------
+Date: 4/10/2023
+Time: 23:4
+Phone Number: ['+917643036272'
+Message: hi this is testing
+--------------------
+Date: 4/10/2023
+Time: 23:6
+Phone Number: '+919955583891']
+Message: hi this is testing2
+--------------------
+Date: 4/10/2023
+Time: 23:6
+Phone Number: ['+917643036272'
+Message: hi this is testing2
+--------------------
+Date: 4/10/2023
+Time: 23:25
+Phone Number: +917643036272
+Message: this is testing 3
+--------------------
+Date: 4/10/2023
+Time: 23:32
+Phone Number: +917643036272
+Message: this is testing 3
+--------------------
+Date: 4/10/2023
+Time: 23:50
+Phone Number: +917643036272
+Message: ds
+--------------------
+Date: 10/10/2023
+Time: 12:37
+Phone Number: +917643036272
+Message: hello papa what are you doing
+--------------------
+Date: 10/10/2023
+Time: 12:39
+Phone Number: +917643036272
+Message: hello papa what are you doing
+--------------------
+Date: 21/10/2023
+Time: 17:34
+Phone Number: +919693127717
+Message: Hello what are you doing
+--------------------
+Date: 21/10/2023
+Time: 17:36
+Phone Number: +919693127717
+Message: Hello what are you doing
+--------------------
+Date: 21/10/2023
+Time: 17:37
+Phone Number: +919693127717
+Message: Hello what are you doing
+--------------------
+Date: 21/10/2023
+Time: 17:38
+Phone Number: +919693127717
+Message: Hello what are you doing
+--------------------
